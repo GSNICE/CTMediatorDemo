@@ -1,0 +1,30 @@
+{
+  "name": "GSUserCenterCategory",
+  "version": "1",
+  "swift_versions": "5.1",
+  "summary": "GSUserCenterCategory.",
+  "description": "this is GSUserCenterCategory",
+  "homepage": "https://github.com/GSNICE/GSUserCenterCategory",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "CasaTaloyum": "casatwy@msn.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/GSNICE/GSUserCenterCategory.git",
+    "tag": "1"
+  },
+  "source_files": "GSUserCenterCategory/GSUserCenterCategory/**/*.{h,m,swift}",
+  "requires_arc": true,
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  },
+  "swift_version": "5.1"
+}

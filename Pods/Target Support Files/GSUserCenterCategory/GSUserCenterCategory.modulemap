@@ -1,0 +1,6 @@
+framework module GSUserCenterCategory {
+  umbrella header "GSUserCenterCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}

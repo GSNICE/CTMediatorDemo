@@ -1,0 +1,25 @@
+{
+  "name": "GSUserCenter",
+  "version": "1",
+  "swift_versions": "5.1",
+  "summary": "GSUserCenter.",
+  "description": "this is GSUserCenter",
+  "homepage": "https://github.com/GSNICE/GSUserCenter",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "CasaTaloyum": "casatwy@msn.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/GSNICE/GSUserCenter.git",
+    "tag": "1"
+  },
+  "source_files": "GSUserCenter/GSUserCenter/**/*.{h,m,swift}",
+  "requires_arc": true,
+  "swift_version": "5.1"
+}
